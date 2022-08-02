@@ -1,9 +1,9 @@
 ## Table of Contents
 * [Title](*Title)
-* [Introduction](#Introduction)
-* [Technologies](#Technologies)
-* [Set-up](#Set-up)
-* [What-was-accomplished](#What-was-accomplished)
+* [Introduction](*Introduction)
+* [Technologies](*Technologies)
+* [Set-up](*Set-up)
+* [What-was-accomplished](*What-was-accomplished)
 
 # Title-Horiseon-refactor
 
@@ -21,12 +21,12 @@ Project is created with:
 To run, repo using npm and run in browser of choosing.
 
 ## What was accomplished
-* Refactored HTML to be semantic HTML
+* Refactored HTML to be semantic HTML.
 * Refactored the HTML to have alt elements with all images.
 * Refactored the HTML to for header to fall in sequential order.
 * Refactored the HTML to provide secriptive title.
-* Refactored CSS to be non-duplicative
-* Refactored CSS to work across multiple devices
+* Refactored CSS to be non-duplicative.
+* Refactored CSS to work across multiple devices.
 * Refactored HTML so that all links work correctly in navigation bar to articles.
 
 
